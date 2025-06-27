@@ -116,8 +116,8 @@ body {
 
 .name-text {
   bottom: 200px; /* Adjust as needed */
-  left: 160px;
-  width: 400px;
+  left: 85px;
+  width: 600px;
   font-size: 32;
   text-align: center;
   font-family: 'Anek Malayalam', sans-serif;
@@ -126,7 +126,7 @@ body {
 
 .title-text {
   bottom: 180px; /* Adjust as needed */
-  left: 210px;
+  left: 225px;
   width: 300px;
   text-align: center;
   font-family: 'Anek Malayalam', sans-serif;

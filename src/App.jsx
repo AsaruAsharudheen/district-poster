@@ -51,10 +51,10 @@ const App = () => {
         </div>
 
         {/* Editable Text Fields */}
-        <div style={{fontSize:'32px',fontWeight:'bold'}} className="text-field name-text" contentEditable suppressContentEditableWarning={true}>
+        <div style={{fontSize:'40px',fontWeight:'bold'}} className="text-field name-text" contentEditable suppressContentEditableWarning={true}>
           Type Name Here
         </div>
-        <div style={{fontSize:'22px'}} className="text-field title-text" contentEditable suppressContentEditableWarning={true}>
+        <div style={{fontSize:'30px'}} className="text-field title-text" contentEditable suppressContentEditableWarning={true}>
           Type Title Here
         </div>
       </div>
